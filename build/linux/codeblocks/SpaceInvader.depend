@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1615025266 source:/home/boss/Projects/SpaceInvader/src/SpaceInvader.cpp
+	"orx.h"
+	<iostream>
+
+1614499370 /home/boss/orx/code/include/orx.h
+	"orxInclude.h"
+	"orxKernel.h"
+	"orxUtils.h"
+	"main/orxAndroid.h"
+
+1614499370 /home/boss/orx/code/include/orxInclude.h
+	"base/orxModule.h"
+
+1614499370 /home/boss/orx/code/include/base/orxModule.h
+	"base/orxVersion.h"
+
+1614499370 /home/boss/orx/code/include/base/orxVersion.h
+	"base/orxType.h"
+	"base/orxBuild.h"
+
+1614499370 /home/boss/orx/code/include/base/orxType.h
+	"base/orxDecl.h"
+
+1614499370 /home/boss/orx/code/include/base/orxDecl.h
+	"TargetConditionals.h"
+	<android/api-level.h>
+	<android/api-level.h>
+	<stddef.h>
+
+1614670297 /home/boss/orx/code/include/base/orxBuild.h
+
+1614499370 /home/boss/orx/code/include/orxKernel.h
+	"anim/orxAnim.h"
+	"anim/orxAnimPointer.h"
+	"anim/orxAnimSet.h"
+	"core/orxClock.h"
+	"core/orxCommand.h"
+	"core/orxConfig.h"
+	"core/orxConsole.h"
+	"core/orxEvent.h"
+	"core/orxLocale.h"
+	"core/orxResource.h"
+	"core/orxSystem.h"
+	"core/orxThread.h"
+	"debug/orxDebug.h"
+	"debug/orxFPS.h"
+	"debug/orxProfiler.h"
+	"display/orxGraphic.h"
+	"display/orxDisplay.h"
+	"display/orxFont.h"
+	"display/orxScreenshot.h"
+	"display/orxText.h"
+	"display/orxTexture.h"
+	"io/orxFile.h"
+	"io/orxInput.h"
+	"io/orxJoystick.h"
+	"io/orxKeyboard.h"
+	"io/orxMouse.h"
+	"main/orxParam.h"
+	"math/orxAABox.h"
+	"math/orxMath.h"
+	"math/orxOBox.h"
+	"math/orxVector.h"
+	"memory/orxBank.h"
+	"memory/orxMemory.h"
+	"object/orxFrame.h"
+	"object/orxFX.h"
+	"object/orxFXPointer.h"
+	"object/orxObject.h"
+	"object/orxSpawner.h"
+	"object/orxStructure.h"
+	"object/orxTimeLine.h"
+	"plugin/orxPlugin.h"
+	"plugin/orxPluginCore.h"
+	"plugin/orxPluginUser.h"
+	"physics/orxBody.h"
+	"physics/orxPhysics.h"
+	"render/orxCamera.h"
+	"render/orxRender.h"
+	"render/orxShader.h"
+	"render/orxShaderPointer.h"
+	"render/orxViewport.h"
+	"sound/orxSound.h"
+	"sound/orxSoundPointer.h"
+	"sound/orxSoundSystem.h"
+
+1614499370 /home/boss/orx/code/include/anim/orxAnim.h
+	"orxInclude.h"
+	"object/orxStructure.h"
+
+1614499370 /home/boss/orx/code/include/object/orxStructure.h
+	"orxInclude.h"
+	"core/orxClock.h"
+	"memory/orxMemory.h"
+	"utils/orxLinkList.h"
+	"utils/orxTree.h"
+
+1614499370 /home/boss/orx/code/include/core/orxClock.h
+	"orxInclude.h"
+	"core/orxSystem.h"
+	"utils/orxString.h"
+
+1614499370 /home/boss/orx/code/include/core/orxSystem.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/math/orxVector.h
+	"orxInclude.h"
+	"debug/orxDebug.h"
+	"memory/orxMemory.h"
+	"math/orxMath.h"
+	"display/orxColorList.inc"
+
+1614499370 /home/boss/orx/code/include/debug/orxDebug.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/memory/orxMemory.h
+	"orxInclude.h"
+	"debug/orxDebug.h"
+	<string.h>
+
+1614499370 /home/boss/orx/code/include/math/orxMath.h
+	"orxInclude.h"
+	"debug/orxDebug.h"
+	<math.h>
+	<intrin.h>
+
+1614499370 /home/boss/orx/code/include/display/orxColorList.inc
+
+1614499370 /home/boss/orx/code/include/utils/orxString.h
+	"orxInclude.h"
+	"memory/orxMemory.h"
+	"math/orxVector.h"
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<stdlib.h>
+	<strings.h>
+	"debug/orxDebug.h"
+
+1614499370 /home/boss/orx/code/include/utils/orxLinkList.h
+	"orxInclude.h"
+	"debug/orxDebug.h"
+
+1614499370 /home/boss/orx/code/include/utils/orxTree.h
+	"orxInclude.h"
+	"debug/orxDebug.h"
+
+1614499370 /home/boss/orx/code/include/anim/orxAnimPointer.h
+	"orxInclude.h"
+	"anim/orxAnimSet.h"
+
+1614499370 /home/boss/orx/code/include/anim/orxAnimSet.h
+	"orxInclude.h"
+	"anim/orxAnim.h"
+
+1614499370 /home/boss/orx/code/include/core/orxCommand.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/core/orxConfig.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/core/orxConsole.h
+	"orxInclude.h"
+	"display/orxFont.h"
+	"io/orxInput.h"
+
+1614499370 /home/boss/orx/code/include/display/orxFont.h
+	"orxInclude.h"
+	"display/orxTexture.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/display/orxTexture.h
+	"orxInclude.h"
+	"display/orxDisplay.h"
+	"math/orxMath.h"
+
+1614499370 /home/boss/orx/code/include/display/orxDisplay.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+	"math/orxVector.h"
+	"math/orxOBox.h"
+	"memory/orxBank.h"
+	"utils/orxHashTable.h"
+	"utils/orxString.h"
+	"utils/orxLinkList.h"
+
+1614499370 /home/boss/orx/code/include/plugin/orxPluginCore.h
+	"orxInclude.h"
+	"plugin/orxPluginType.h"
+	"plugin/define/orxPlugin_CoreDefine.h"
+
+1614499370 /home/boss/orx/code/include/plugin/orxPluginType.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_CoreDefine.h
+	"plugin/define/orxPlugin_Display.h"
+	"plugin/define/orxPlugin_Joystick.h"
+	"plugin/define/orxPlugin_Keyboard.h"
+	"plugin/define/orxPlugin_Mouse.h"
+	"plugin/define/orxPlugin_Physics.h"
+	"plugin/define/orxPlugin_Render.h"
+	"plugin/define/orxPlugin_SoundSystem.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Display.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_CoreID.h
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Joystick.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Keyboard.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Mouse.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Physics.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_Render.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/plugin/define/orxPlugin_SoundSystem.h
+	"plugin/define/orxPlugin_CoreID.h"
+
+1614499370 /home/boss/orx/code/include/math/orxOBox.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/memory/orxBank.h
+	"orxInclude.h"
+	"memory/orxMemory.h"
+
+1614499370 /home/boss/orx/code/include/utils/orxHashTable.h
+	"orxInclude.h"
+	"memory/orxMemory.h"
+
+1614499370 /home/boss/orx/code/include/io/orxInput.h
+	"orxInclude.h"
+	"io/orxJoystick.h"
+	"io/orxKeyboard.h"
+	"io/orxMouse.h"
+
+1614499370 /home/boss/orx/code/include/io/orxJoystick.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+
+1614499370 /home/boss/orx/code/include/io/orxKeyboard.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+
+1614499370 /home/boss/orx/code/include/io/orxMouse.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+	"math/orxVector.h"
+	"utils/orxString.h"
+
+1614499370 /home/boss/orx/code/include/core/orxEvent.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/core/orxLocale.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/core/orxResource.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/core/orxThread.h
+	"orxInclude.h"
+	"memory/orxMemory.h"
+	<semaphore.h>
+
+1614499370 /home/boss/orx/code/include/debug/orxFPS.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/debug/orxProfiler.h
+	"orxInclude.h"
+	"core/orxThread.h"
+
+1614499370 /home/boss/orx/code/include/display/orxGraphic.h
+	"orxInclude.h"
+	"object/orxStructure.h"
+	"display/orxDisplay.h"
+
+1614499370 /home/boss/orx/code/include/display/orxScreenshot.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/display/orxText.h
+	"orxInclude.h"
+	"display/orxFont.h"
+
+1614499370 /home/boss/orx/code/include/io/orxFile.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/main/orxParam.h
+	"orxInclude.h"
+
+1614499370 /home/boss/orx/code/include/math/orxAABox.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/object/orxFrame.h
+	"orxInclude.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/object/orxFX.h
+	"orxInclude.h"
+	"math/orxVector.h"
+	"object/orxObject.h"
+
+1614499370 /home/boss/orx/code/include/object/orxObject.h
+	"orxInclude.h"
+	"anim/orxAnimSet.h"
+	"core/orxClock.h"
+	"display/orxDisplay.h"
+	"display/orxGraphic.h"
+	"display/orxTexture.h"
+	"math/orxOBox.h"
+	"memory/orxBank.h"
+	"object/orxStructure.h"
+	"sound/orxSound.h"
+
+1614499370 /home/boss/orx/code/include/sound/orxSound.h
+	"orxInclude.h"
+	"sound/orxSoundSystem.h"
+	"math/orxVector.h"
+
+1614499370 /home/boss/orx/code/include/sound/orxSoundSystem.h
+	"orxInclude.h"
+	"math/orxVector.h"
+	"plugin/orxPluginCore.h"
+
+1614499370 /home/boss/orx/code/include/object/orxFXPointer.h
+	"orxInclude.h"
+	"object/orxFX.h"
+	"object/orxStructure.h"
+
+1614499370 /home/boss/orx/code/include/object/orxSpawner.h
+	"orxInclude.h"
+	"object/orxStructure.h"
+	"object/orxFrame.h"
+
+1614499370 /home/boss/orx/code/include/object/orxTimeLine.h
+	"orxInclude.h"
+	"object/orxStructure.h"
+
+1614499370 /home/boss/orx/code/include/plugin/orxPlugin.h
+	"orxInclude.h"
+	"plugin/orxPluginType.h"
+
+1614499370 /home/boss/orx/code/include/plugin/orxPluginUser.h
+	"orxInclude.h"
+	"plugin/orxPluginType.h"
+	"plugin/define/orxPlugin_CoreDefine.h"
+	"memory/orxMemory.h"
+	"utils/orxString.h"
+
+1614499370 /home/boss/orx/code/include/physics/orxBody.h
+	"orxInclude.h"
+	"object/orxStructure.h"
+	"physics/orxPhysics.h"
+
+1614499370 /home/boss/orx/code/include/physics/orxPhysics.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+	"math/orxAABox.h"
+
+1614499370 /home/boss/orx/code/include/render/orxCamera.h
+	"orxInclude.h"
+	"object/orxFrame.h"
+	"object/orxStructure.h"
+	"math/orxAABox.h"
+
+1614499370 /home/boss/orx/code/include/render/orxRender.h
+	"orxInclude.h"
+	"plugin/orxPluginCore.h"
+	"display/orxDisplay.h"
+	"object/orxFrame.h"
+	"object/orxObject.h"
+	"render/orxViewport.h"
+
+1614499370 /home/boss/orx/code/include/render/orxViewport.h
+	"orxInclude.h"
+	"core/orxClock.h"
+	"render/orxCamera.h"
+	"render/orxShaderPointer.h"
+	"display/orxDisplay.h"
+	"display/orxTexture.h"
+
+1614499370 /home/boss/orx/code/include/render/orxShaderPointer.h
+	"orxInclude.h"
+	"render/orxShader.h"
+	"object/orxStructure.h"
+
+1614499370 /home/boss/orx/code/include/render/orxShader.h
+	"orxInclude.h"
+	"math/orxVector.h"
+	"display/orxTexture.h"
+	"object/orxObject.h"
+	"utils/orxLinkList.h"
+
+1614499370 /home/boss/orx/code/include/sound/orxSoundPointer.h
+	"orxInclude.h"
+	"sound/orxSound.h"
+	"object/orxStructure.h"
+
+1614499370 /home/boss/orx/code/include/orxUtils.h
+	"utils/orxHashTable.h"
+	"utils/orxLinkList.h"
+	"utils/orxString.h"
+	"utils/orxTree.h"
+
+1614499370 /home/boss/orx/code/include/main/orxAndroid.h
+	<jni.h>
+	<pthread.h>
+	<stdlib.h>
+	<android/native_window.h>
+	<android_native_app_glue.h>
+
