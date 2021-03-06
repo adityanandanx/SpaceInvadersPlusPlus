@@ -2,7 +2,7 @@
 Space Invaders but with physics
 
 
-This project is being made with the intention to learn ORX -> https://orx-project.org/ for other projects which I will be working on after completing this.
+This project is being made with the intention to learn [ORX](https://orx-project.org/) for other projects which I will be working on after completing this.
 The first one being " MONzTER BOI " :)
 
 
