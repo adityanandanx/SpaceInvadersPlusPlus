@@ -1802,3 +1802,38 @@
 [05:47:03] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
 [05:47:03] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
 [05:47:03] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
+[06:32:16] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2792)] [SpaceInvaderd.ini]: Begin include @SpaceInvader.ini@
+[06:32:16] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2798)] [SpaceInvaderd.ini]: End include @SpaceInvader.ini@
+[06:32:16] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2687)] [SpaceInvaderd.ini]: <Display.Title> = SpaceInvader -> SpaceInvader (Debug)
+[06:32:16] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <wall> with value <1>.
+[06:32:16] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
+[06:32:16] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
+[06:32:16] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
+[06:34:31] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2792)] [SpaceInvaderd.ini]: Begin include @SpaceInvader.ini@
+[06:34:31] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2798)] [SpaceInvaderd.ini]: End include @SpaceInvader.ini@
+[06:34:31] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2687)] [SpaceInvaderd.ini]: <Display.Title> = SpaceInvader -> SpaceInvader (Debug)
+[06:34:31] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <wall> with value <1>.
+[06:34:31] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
+[06:34:31] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
+[06:34:31] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
+[06:35:24] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2792)] [SpaceInvaderd.ini]: Begin include @SpaceInvader.ini@
+[06:35:24] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2798)] [SpaceInvaderd.ini]: End include @SpaceInvader.ini@
+[06:35:24] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2687)] [SpaceInvaderd.ini]: <Display.Title> = SpaceInvader -> SpaceInvader (Debug)
+[06:35:25] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <wall> with value <1>.
+[06:35:25] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
+[06:35:25] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
+[06:35:25] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
+[06:37:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2792)] [SpaceInvaderd.ini]: Begin include @SpaceInvader.ini@
+[06:37:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2798)] [SpaceInvaderd.ini]: End include @SpaceInvader.ini@
+[06:37:47] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2687)] [SpaceInvaderd.ini]: <Display.Title> = SpaceInvader -> SpaceInvader (Debug)
+[06:37:47] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <wall> with value <1>.
+[06:37:47] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
+[06:37:47] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
+[06:37:47] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
+[06:39:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2792)] [SpaceInvaderd.ini]: Begin include @SpaceInvader.ini@
+[06:39:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2798)] [SpaceInvaderd.ini]: End include @SpaceInvader.ini@
+[06:39:39] [CONFIG] [orxConfig.c:orxConfig_ProcessBuffer(2687)] [SpaceInvaderd.ini]: <Display.Title> = SpaceInvader -> SpaceInvader (Debug)
+[06:39:39] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <wall> with value <1>.
+[06:39:39] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <player> with value <2>.
+[06:39:39] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bullet> with value <4>.
+[06:39:39] [PHYSICS] [orxPhysics.c:orxPhysics_GetCollisionFlagValue(232)] Adding collision flag <bug> with value <8>.
